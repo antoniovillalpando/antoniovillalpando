@@ -4,7 +4,7 @@
 
 <h1 align="center">Antonio Villalpando-Acuña</h1>
 
-<p align="center"><em>Modelador empírico y arquitecto conceptual</em></p>
+<p align="center"><em>Modelador empírico y arquitecto conceptual.</em></p>
 
 <p align="center">
 Aquí indexo lo que voy creando.
