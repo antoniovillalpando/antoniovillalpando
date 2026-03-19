@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="antoniovillalpando.github.io/images/soVKpSv6_400x400.jpg" width="320">
+  <img src="/images/soVKpSv6_400x400.jpg" width="320">
 </p>
 
 <h1 align="center">Antonio Villalpando-Acuña</h1>
