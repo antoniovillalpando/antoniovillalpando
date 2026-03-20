@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="/images/soVKpSv6_400x400.jpg" width="320">
+  <img src="/images/soVKpSv6_400x400.jpg" width="400">
 </p>
 
 <h1 align="center">Antonio Villalpando-Acuña</h1>
 
-<p align="center"><em>Modelador empírico y arquitecto conceptual.</em></p>
+<p align="center"><em>Investigación, análisis y modelado en ciencias sociales.</em></p>
 
 <p align="center">
 Aquí indexo lo que voy creando.
