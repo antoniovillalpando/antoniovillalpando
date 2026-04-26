@@ -6,11 +6,13 @@
 
 <p align="center"><strong>Investigación, análisis y modelado en ciencias sociales.</strong></p>
 
-<div align="center">
-  <div style="display: inline-block; border: 1px solid #000; padding: 8px 14px; border-radius: 6px;">
-    <em>profesorvillalpando@gmail.com</em>
-  </div>
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <em>profesorvillalpando@gmail.com</em>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
 <em> profesorvillalpando@gmail.com </em>
