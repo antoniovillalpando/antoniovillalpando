@@ -3,11 +3,9 @@
 </p>
 
 <h1 align="center">Antonio Villalpando-Acuña</h1>
-
 <p align="center"><strong>Investigación, análisis y modelado en ciencias sociales.</strong></p>
-
 <p align="center">
-  <img src="/images/mail.png" alt="profesorvillalpando@gmail.com">
+  <em>"profesorvillalpando@gmail.com"</em>>
 </p>
 ---
 
