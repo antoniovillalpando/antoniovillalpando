@@ -14,9 +14,6 @@
   </tr>
 </table>
 
-<p align="center">
-<em> profesorvillalpando@gmail.com </em>
-</p>
 ---
 
 ## Redes
