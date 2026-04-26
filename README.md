@@ -7,7 +7,7 @@
 <p align="center"><strong>Investigación, análisis y modelado en ciencias sociales.</strong></p>
 
 <p align="center">
-  <img src="./images/correo.png" alt="profesorvillalpando@gmail.com">
+  <img src="/images/correo.png" alt="profesorvillalpando@gmail.com">
 </p>
 ---
 
