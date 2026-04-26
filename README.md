@@ -5,6 +5,7 @@
 <h1 align="center">Antonio Villalpando-Acuña</h1>
 <h2 align="center"><strong>Investigación, análisis y modelado en ciencias sociales.</strong></h2>
 <h3 align="center"><em><h2>profesorvillalpando@gmail.com</h2></em></h3>
+
 ---
 
 ## Redes
