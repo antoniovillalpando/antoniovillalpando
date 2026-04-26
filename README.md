@@ -6,7 +6,7 @@
 
 <p align="center"><strong>Investigación, análisis y modelado en ciencias sociales.</strong></p>
 
-<table align="center">
+<table align="center" border="2" bordercolor="#666666">
   <tr>
     <td>
       <em>profesorvillalpando@gmail.com</em>
