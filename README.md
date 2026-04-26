@@ -7,11 +7,7 @@
 <p align="center"><em>Investigación, análisis y modelado en ciencias sociales.</em></p>
 
 <p align="center">
-Aquí indexo lo que voy creando.
-</p>
-
-<p align="center">
-Contacto: profesorvillalpando@gmail.com
+<em> profesorvillalpando@gmail.com</em>
 </p>
 ---
 
