@@ -3,8 +3,8 @@
 </p>
 
 <h1 align="center">Antonio Villalpando-Acuña</h1>
-<p align="center"><strong>Investigación, análisis y modelado en ciencias sociales.</strong></p>
-<p align="center"><em><h2>profesorvillalpando@gmail.com</h2></em></p>
+<h2 align="center"><strong>Investigación, análisis y modelado en ciencias sociales.</strong></h2>
+<h3 align="center"><em><h2>profesorvillalpando@gmail.com</h2></em></h3>
 ---
 
 ## Redes
