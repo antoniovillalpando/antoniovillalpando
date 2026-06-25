@@ -15,6 +15,7 @@
 - Ideas en desarrollo (HackMD): https://hackmd.io/@antoniovillalpando
 - Escritura libre (Substack): https://substack.com/@avillalpando
 - Galería (Instagram): https://www.instagram.com/avillalpandoa/
+- Contacto (Facebook): https://www.facebook.com/antonio.villalpando.acuna/
 
 ---
 
