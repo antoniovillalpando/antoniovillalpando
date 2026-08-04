@@ -4,6 +4,7 @@
 
 <h1 align="center">Antonio Villalpando-Acuña</h1>
 <p align="center"><strong>Investigación, análisis y modelado en ciencias sociales.</strong></p>
+<p align="center">Director del [**Laboratorio de Investigación Social Avanzada (LISA)**](https://github.com/antoniovillalpando/lisa).</strong></p>
 <p align="center"><em>profesorvillalpando@gmail.com</em></p>
 
 ---
