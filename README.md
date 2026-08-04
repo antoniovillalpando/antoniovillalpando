@@ -10,7 +10,7 @@
     Laboratorio de Investigación Social Avanzada (LISA)
   </a>
 </p>
-<p align="center"><em>profesorvillalpando@gmail.com</em></p>
+<p align="center">profesorvillalpando@gmail.com</p>
 
 ---
 
