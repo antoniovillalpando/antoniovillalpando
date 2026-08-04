@@ -10,7 +10,12 @@
   </a><br>
         <strong>Director y Oficial Científico en Jefe</strong>
 </h3>
-<p align="center">profesorvillalpando@gmail.com</p>
+<p align="center">
+  <strong>Contacto</strong><br>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=profesorvillalpando@gmail.com">
+    profesorvillalpando@gmail.com
+  </a>
+</p>
 
 ---
 
