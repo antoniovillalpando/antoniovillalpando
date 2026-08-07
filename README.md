@@ -6,7 +6,9 @@
   <a href="https://antoniovillalpando.github.io">
     Sitio personal
   </a>
-  ·
+</p>
+
+<p align="center">
   <a href="https://antoniovillalpando.github.io/lisa/">
     Laboratorio de Investigación Social Avanzada
   </a>
